@@ -32,17 +32,17 @@
 	 
 	PROJECTS
 	
-	JBS  |   HTML , CSS , JavaScript , Firebase , Cursor , MERN Stack , MongoDB	June 2025
+	JBS  |   HTML , CSS , JavaScript , Firebase , Cursor , MERN Stack , MongoDB                  	June 2025
 		•Developed JBS, a platform connecting students and local workers with part-time jobs and small businesses.
 		•Integrated job hiring and local e-commerce into a single digital ecosystem.
 	
-	Dine view | VS Code, GitHub HTML, CSS, JavaScript , Node.js , MySQL	August 2024
+	Dine view | VS Code, GitHub HTML, CSS, JavaScript , Node.js , MySQL	                            August 2024
 		•Developed a digital restaurant menu display website for easy food browsing.
 		•Created a responsive and user-friendly interface for better customer experience.
 	
 	Fake News Detection | Python, Machine Learning, Scikit-learn, Pandas, HTML, CSS
-		•Developed a machine learning-based system to identify fake and real news articles.	May 2024 • Implemented text
-		analysis and classification techniques for accurate news prediction.
+		•Developed a machine learning-based system to identify fake and real news articles.        	  May 2024
+		• Implemented text analysis and classification techniques for accurate news prediction.
 
 	 
 	AWARDS AND CERTIFICATES
