@@ -1,6 +1,6 @@
 														PRAVEENA P
 													FULL STACK DEVELOPER
-	praveenap2907@gmail.com	github.com/Pravee2907	                        linkedin.com/in/praveena-p-253562294/
+	praveenap2907@gmail.com	                                                    linkedin.com/in/praveena-p-253562294/   
 	
 	ABOUT ME
 	
