@@ -3,7 +3,9 @@
 	praveenap2907@gmail.com	github.com/Pravee2907	                        linkedin.com/in/praveena-p-253562294/
 	
 	ABOUT ME
-	Motivated Information Technology student  Passionate about AI , Machine Learning and Full-Stack Development. Skilled in programming, 	databases, and building real-world projects. Actively engaged in hackathons, teamwork, and innovation challenges. Aspiring to grow as 	a software engineer and create impactful solutions.
+	Motivated Information Technology student  Passionate about AI , Machine Learning and Full-Stack Development. Skilled in programming,
+	databases, and building real-world projects. Actively engaged in hackathons, teamwork, and innovation challenges. Aspiring to grow as
+	a software engineer and create impactful solutions.
 	
 	EDUCATION
                          
