@@ -47,6 +47,7 @@
 	    Certified in Full StackMERN Stack
 	
 	Career Objective
-		To leverage my technical knowledge and problem-solving skills in Full Stack Development, AI, and Machine Learning 
-		to build innovative software solutions while continuously learning and growing as a professional software engineer.
+		To leverage my technical knowledge and problem-solving skills in Full Stack Development, AI, and Machine 
+		Learning to build innovative software solutions while continuously learning and growing as a professional
+		software engineer.
 
