@@ -3,6 +3,7 @@
 	praveenap2907@gmail.com	github.com/Pravee2907	                        linkedin.com/in/praveena-p-253562294/
 	
 	ABOUT ME
+	
 	Motivated Information Technology student  Passionate about AI , Machine Learning and Full-Stack Development. Skilled
 	in programming, databases, and building real-world projects. Actively engaged in hackathons, teamwork, and innovation
 	challenges. Aspiring to grow as a software engineer and create impactful solutions.
@@ -18,6 +19,7 @@
    
  
 	TECHNICAL SKILL
+	
 	Languages Technology : 
 			Python , SQL , JAVA , HTML , CSS , JavaScript , MERN
 	
@@ -26,8 +28,10 @@
 	
 	Area of Intrest : 
 			Web development , Frontend Development , Machine Learning
+
 	 
 	PROJECTS
+	
 	JBS  |   HTML , CSS , JavaScript , Firebase , Cursor , MERN Stack , MongoDB	June 2025
 		•Developed JBS, a platform connecting students and local workers with part-time jobs and small businesses.
 		•Integrated job hiring and local e-commerce into a single digital ecosystem.
@@ -39,14 +43,18 @@
 	Fake News Detection | Python, Machine Learning, Scikit-learn, Pandas, HTML, CSS
 		•Developed a machine learning-based system to identify fake and real news articles.	May 2024 • Implemented text
 		analysis and classification techniques for accurate news prediction.
+
 	 
 	AWARDS AND CERTIFICATES
+	
 		AWS
 		MongoDB Certification	 
 		JavaScript
 	    Certified in Full StackMERN Stack
+
 	
 	Career Objective
+	
 		To leverage my technical knowledge and problem-solving skills in Full Stack Development, AI, and Machine 
 		Learning to build innovative software solutions while continuously learning and growing as a professional
 		software engineer.
