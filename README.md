@@ -1,18 +1,21 @@
-PRAVEENA P
-		FULL STACK DEVELOPER
-praveenap2907@gmail.com	github.com/Pravee2907	linkedin.com/in/praveena-p-253562294/
+														PRAVEENA P
+													FULL STACK DEVELOPER
+praveenap2907@gmail.com	github.com/Pravee2907	                                                  linkedin.com/in/praveena-p-253562294/
+
 
 ABOUT ME
 Motivated Information Technology student  Passionate about AI , Machine Learning and Full-Stack Development. Skilled in programming, databases, and building real-world projects. Actively engaged in hackathons, teamwork, and innovation challenges. Aspiring to grow as a software engineer and create impactful solutions.
+
  
 EDUCATION
-                         2021-2-2023
-Sri Vidya Matriculatio Hr Sec School 
-HSC percentage- All pass        SSLC percentage- 89.16%
-PSNA College of Engineering and Technology
-B.Tech in Information Technology - CGPA -9.4 (Till 5th sem)	Virudhunagar , TamilNadu
-              2023-2027
-Dindigul , TamilNadu    
+                         
+Sri Vidya Matriculatio Hr Sec School                                                                              2021-2-2023
+HSC percentage- All pass       SSLC percentage- 89.16%                                                       Virudhunagar , TamilNadu 
+
+PSNA College of Engineering and Technology                                                                         2023-2027
+B.Tech in Information Technology - CGPA -9.4 (Till 5th sem)	                                                  Dindigul , TamilNadu 
+              
+   
  
 TECHNICAL SKILL
 Languages Technology : 
